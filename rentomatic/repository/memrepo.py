@@ -1,0 +1,2 @@
+class MemRepo:
+    pass
